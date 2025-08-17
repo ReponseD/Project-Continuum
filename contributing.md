@@ -42,5 +42,6 @@ There are multiple ways you can get involved:
 
 2. **Clone Your Fork**  
    ```bash
-   git clone https://github.com/ReponseD/project-continuum.git
+   git clone https://github.com/ReponseD/Project-Continuum.git
+
 
