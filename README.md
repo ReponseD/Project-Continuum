@@ -1,87 +1,78 @@
 # Project Continuum
 
-**An African-led, self-sustaining robotics ecosystem for youth innovation**
+### Building Africa’s Independent Robotics & Engineering Ecosystem for the 22nd Century
+
+---
 
 ## Introduction
+Project Continuum is an **African-led initiative** to create a self-sustaining robotics and technology ecosystem. Our goal is to empower students to innovate, build, and compete **without reliance on expensive imported kits or foreign programs**.  
 
-Project Continuum is an ambitious, continent-wide initiative to create a durable, locally-driven robotics ecosystem that empowers African students to design, build, compete, and innovate **without depending on imported kits or one-off sponsorships**. The project combines hardware design, curriculum development, community engagement, and a competition framework crafted in Africa for Africa. It is intended for schools, makerspaces, universities, student teams, mentors, and local manufacturers who want to grow sustainable robotics capacity across the continent.
-
-Project Continuum is not a copy of existing international programs; it is a purposeful alternative that preserves the educational and competitive spirit of robotics while centering African materials, contexts, and creativity. By prioritizing modular, repairable, and locally-sourced components, the project reduces logistical barriers and enables long-term continuity of robotics programs in diverse African settings.
-
-## Vision
-
-To establish a continuous, self-replenishing pipeline of African robotics talent — where young people from every community can learn, build, and showcase world-class technical and creative work using resources that are locally accessible and maintainable. Project Continuum envisions an ecosystem in which robotics education, local manufacturing, and community entrepreneurship reinforce one another to create lasting opportunity and innovation.
-
-## Mission
-
-- Design and produce modular robotics kits that can be assembled, repaired, and upgraded with locally available materials and components.  
-- Develop open curricula, tooling guides, and training programs that teach mechanical design, electronics, programming, systems thinking, and project management.  
-- Launch an African competition framework and showcase platform that rewards creativity, problem-solving, and context-driven solutions.  
-- Build partnerships with schools, makerspaces, universities, and local industry to create production, training, and distribution channels that do not rely on perennial external donations.
-
-## Core Principles
-
-- **Self-Reliance:** prioritize designs and processes that teams can sustain independently.  
-- **Accessibility:** make robotics affordable and available in urban and rural contexts alike.  
-- **Adaptability:** support multiple skill levels and resource realities through modular design.  
-- **Authenticity:** design challenges and solutions that reflect African priorities and opportunities.  
-- **Sustainability:** emphasize repairability, reuse, and local production to reduce cost and waste.  
-- **Inclusion:** actively lower barriers for underrepresented learners and promote gender balance.
-
-## What Makes Project Continuum Different
-
-- Focus on locally obtainable parts and repairable hardware instead of proprietary, imported kits.  
-- A competition and scoring framework designed around practical impact, creativity, and contextual relevance rather than strict imitation of foreign rules.  
-- Open, shareable curricula and build instructions that enable schools and communities to fabricate, adapt, and scale kits.  
-- An emphasis on local manufacturing and vocational pathways so robotics becomes an engine for jobs and small industry.
-
-## Core Components
-
-1. **Continuum Kit:** a modular hardware platform that can be built from off-the-shelf electronic modules, basic mechanical parts, and locally fabricated structural elements.  
-2. **Learning Pathways:** staged curricula (beginner → intermediate → advanced) covering mechanics, electronics, embedded programming, control systems, and team workflows.  
-3. **Competition Framework — CRADLE:** the form in which Project Continuum competitions are held (see details below).  
-4. **Training & Mentorship:** train-the-trainer programs for teachers, student leaders, and local technicians.  
-5. **Local Production Network:** guidance and templates for small manufacturers or makerspaces to produce kit parts regionally.  
-6. **Open Repository:** a living library of schematics, firmware, lesson plans, and case studies available under an open license.
+Project Continuum is not just a robotics program—it is a **movement** preparing Africa for the next century of innovation.
 
 ---
 
-## CRADLE — Competition Format
+## The Story Behind Project Continuum
+We began as a **FIRST LEGO League (FLL) team** supported by the Rwanda Basic Education Board. For many students, it was the first time ever seeing and interacting with a LEGO robot, unlocking imagination, problem-solving, and teamwork.  
 
-**CRADLE** is the competition structure developed for Project Continuum. It is purpose-built to reflect the project’s principles: local relevance, sustainability, repairability, and continuous learning. CRADLE is a platform for teams to showcase engineering skill, creativity, and solutions to locally meaningful problems.
+After graduation, we faced barriers:
+- **FTC kits cost over $5,000 USD** (excluding shipping).  
+- Most families lived on **less than $1/day**.  
+- Attempts to ship donated kits from the U.S. resulted in only 4 out of 21 kits arriving.  
+- **FRC competitions** were completely out of reach financially and logistically.  
 
-**Key characteristics of CRADLE**
+Despite starting an international African FRC team and qualifying for competitions, we could not raise sufficient funds to travel and compete.  
 
-- **Locally-centered Challenges:** tasks and missions are inspired by real African contexts (agriculture, water, energy, transportation, civic services), encouraging teams to design solutions that matter locally.  
-- **Resource-Respecting Rules:** competitors are scored on how well they use and adapt locally available materials, repairability, and cost-efficiency, not on access to expensive proprietary parts.  
-- **Modular Fields and Tasks:** fields and missions are adaptable to different venues and resources so that CRADLE events can be held in schools, community halls, or open fields.  
-- **Holistic Evaluation:** judging balances technical performance with creativity, documentation, teamwork, sustainability, and social impact.  
-- **Tiered Participation:** CRADLE supports multiple entry levels — introductory demonstrations for novices, intermediate challenges for developing teams, and advanced competitions for high-performing teams — enabling continuous progression.  
-- **Showcase & Knowledge Exchange:** each CRADLE event includes public demos, skill-sharing sessions, and a marketplace for local producers and makers to exhibit parts and fabrication services.  
-- **Open & Replicable:** all CRADLE rulesets, field designs, scoring rubrics, and judging guides are published openly so communities can host their own events without external gatekeepers.
-
-CRADLE is designed to be flexible: small pilot events can scale into district, national, and regional showcases. Its core purpose is to seed a culture of continuous building, repairing, and improving — so robotics becomes an enduring part of local education and industry.
+These challenges gave birth to **Project Continuum**: an ecosystem that Africa controls, builds, and sustains independently.
 
 ---
 
-## Intended Impact
-
-Project Continuum aims to:  
-- Make robotics education resilient to supply chain and funding shocks.  
-- Create an inclusive pathway for African youth to gain practical STEM skills and entrepreneurial experience.  
-- Stimulate local small-scale manufacturing and repair economies around educational robotics.  
-- Showcase African ingenuity through competitions and public demonstrations that are owned and run by local organizers.
+## Why Project Continuum Matters
+1. **Accessibility** – No student should be excluded from robotics and engineering due to cost.  
+2. **Independence** – Africa must create its own technology platforms and ecosystems.  
+3. **Continuity** – A complete pipeline from beginner robotics to advanced AI and engineering.  
+4. **Future-Readiness** – Equipping Africa’s youth to lead global innovation by 2100.  
 
 ---
 
-## How to Get Involved
-
-Project Continuum is open and collaborative. Schools, mentors, makerspaces, and local manufacturers are invited to:  
-- Explore the repository for kit designs and curriculum.  
-- Pilot a Continuum Kit and provide feedback.  
-- Join one of the effort tracks: hardware design, curriculum development, competition (CRADLE) design, training, or local production.  
-- Share pilots, case studies, and improvements back to the community so the project continuously evolves.
+## Our Mission
+Project Continuum builds an **independent African ecosystem for robotics and advanced technology**, combining:
+- **Affordable, locally manufacturable kits** for schools and students.  
+- **Curriculum and training programs** to teach problem-solving, critical thinking, and technical skills.  
+- **Competitions and challenges** that are accessible, inclusive, and scalable.  
+- **Startup incubation pathways** linking student innovation to commercial ventures.  
 
 ---
 
-> Project Continuum, through CRADLE events, is more than a toolkit or a contest — it is a commitment to continuity: continuous learning, continuous repair, continuous improvement, and continuous ownership of African robotics futures.
+## How We Work
+- **Design & Manufacturing** – Open-source hardware and software kits produced locally.  
+- **Education & Training** – Step-by-step programs, mentorship, and hands-on learning.  
+- **Competitions & Challenges** – Structured to inspire creativity, innovation, and teamwork.  
+- **Incubation & Entrepreneurship** – Students transition from learning to launching startups.  
+- **Community Collaboration** – Engineers, educators, students, and partners co-develop the ecosystem.  
+
+---
+
+## Vision for 2100
+By the end of this century, Africa will no longer be a consumer of technology—it will be a **global leader in robotics, AI, and engineering innovation**.  
+
+Project Continuum ensures that today’s African students grow into tomorrow’s leaders, entrepreneurs, and innovators, creating a sustainable ecosystem that spans education, industry, and research.
+
+---
+
+## Call to Action
+Project Continuum is **open-source and collaborative**. We invite:  
+- **Developers & Engineers** – Contribute to kits, software, and robotics platforms.  
+- **Educators & Mentors** – Guide and train students across Africa.  
+- **Partners & Sponsors** – Support the ecosystem through funding, resources, and mentorship.  
+- **Students & Innovators** – Learn, build, and lead the future of technology in Africa.  
+
+📧 Contact: **kaleeba.isma@gmail.com**
+
+---
+
+## License
+This project is licensed under the **MIT License**, allowing open collaboration, innovation, and reuse.  
+
+---
+
+> Project Continuum is more than a robotics program; it is Africa’s declaration of independence in technology and innovation.
